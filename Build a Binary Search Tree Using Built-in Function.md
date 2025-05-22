@@ -46,10 +46,10 @@ print(l.is_bst)
 ```
 
 ## OUTPUT
-```
+
 ![image](https://github.com/user-attachments/assets/a60dae8d-e44b-46f0-ba68-da302c5e674e)
 
-```
+
 
 ## RESULT
 Thus, The Python program to build a binary search tree using a built-in function was implemented and executed successfully.
